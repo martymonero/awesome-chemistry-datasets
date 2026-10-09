@@ -43,6 +43,7 @@ Contributions are very welcome—please follow the [guidelines](CONTRIBUTING.md)
 ## Chemical structures and spectra
 
 - [ChEBI](https://www.ebi.ac.uk/chebi/downloads): curated chemical entities, ontology terms, synonyms, structures, and cross-references; bulk SDF and database dumps are available under CC BY 4.0.
+- [Chempirical](https://chempirical.com/api/): 48,938 compounds (October 2026) with names, formula, SMILES/InChI/InChIKey, molar mass, density, melting and boiling points, Antoine constants, azeotropes and GHS hazard data, plus 3,374 reactions and separate Antoine and azeotrope tables. Access: JSON API, no key, CORS open; search by name, CAS, formula or SMILES, substructure and similarity; no bulk download. Identifiers: CAS, SMILES, InChI, InChIKey. License: not stated.
 - [COCONUT](https://coconut.naturalproducts.net/): is an open source project for Natural Products (NPs) storage, search and analysis.
 - [Crystallography Open Database](http://www.crystallography.net/cod/): open-access collection of crystal structures of organic, inorganic, metal-organic compounds and minerals, excluding biopolymers. [They also derived SMILES for some compounds.](https://doi.org/10.1186/s13321-018-0279-6)
 - [Enamine HTS collection](https://enamine.net/compound-collections/screening-collection/hts-collection):  1 930 980 diverse screening compounds (37 billion molecules in 2D and 4.5 billion in 3D)
